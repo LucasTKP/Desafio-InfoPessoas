@@ -78,7 +78,9 @@ Assista ao vídeo de demonstração da aplicação:
 
 
 
-https://github.com/user-attachments/assets/fdd6ca9f-2b2b-416d-bb62-080809e8df5e
+
+https://github.com/user-attachments/assets/74c62290-5f45-4e15-a1ac-521c21066cf6
+
 
 
 
