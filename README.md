@@ -1,7 +1,7 @@
 # 🎬 InfoPessoas App
 
 Aplicação Flutter consumindo a [Random User API](https://randomuser.me/), exibindo pessoas com padrão **MVVM**, persistindo os favoritos no banco de dados local e implementando testes automatizados.
-Para salvar pessoas localmente criei uma regra onde o usuário estava "favoritando" aquela pessoa, apenas para melhorar a experiência de demonstração.
+Para salvar pessoas localmente criei uma regra onde o usuário "favorita" aquela pessoa, apenas para melhorar a experiência de demonstração.
 #
 
 
@@ -13,7 +13,7 @@ Para salvar pessoas localmente criei uma regra onde o usuário estava "favoritan
 - ✅ Detalhes da pessoa
 - ✅ Arquitetura MVVM limpa e escalável
 - ✅ Persistência dos dados no banco local
-- ✅ testes automatizados
+- ✅ Testes automatizados
 - ✅ Tratamento de erros
 - ✅ Rate limiting (300 req/min)
 
@@ -75,6 +75,10 @@ Máximo 300 requisições/minuto. Reseta automaticamente a cada minuto.
 ## 🎥 Demonstração
 
 Assista ao vídeo de demonstração da aplicação:
+
+
+
+https://github.com/user-attachments/assets/fdd6ca9f-2b2b-416d-bb62-080809e8df5e
 
 
 
