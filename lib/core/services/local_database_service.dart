@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'package:infopessoas/core/services/request_limiter_service.dart';
 import 'package:sqflite/sqflite.dart';
+import 'package:path/path.dart';
 
 class LocalDatabaseService {
   static Database? _database;
@@ -81,6 +82,4 @@ class LocalDatabaseService {
       return <String, dynamic>{};
     }).toList();
   }
-  
-  join(String databasesPath, String s) {}
 }
