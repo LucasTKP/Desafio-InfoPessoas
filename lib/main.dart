@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Rick and Morty',
+      title: 'Info Pessoas',
       theme: ThemeData(
         fontFamily: CustomTheme.fontFamily,
         useMaterial3: true,
